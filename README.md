@@ -32,11 +32,11 @@
 3. **Type exit to quit the program.**:
 
 ## Example
-```bash
-Enter what you want me to say (or 'exit' to quit): Hello, I am Robo Speaker!
-# The computer will speak: "Hello, I am Robo Speaker!"
-Enter what you want me to say (or 'exit' to quit): exit
-# Exiting Robo Speaker. Goodbye!
+   ```bash
+   Enter what you want me to say (or 'exit' to quit): Hello, I am Robo Speaker!
+   # The computer will speak: "Hello, I am Robo Speaker!"
+   Enter what you want me to say (or 'exit' to quit): exit
+   # Exiting Robo Speaker. Goodbye!
 
 
   
